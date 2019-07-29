@@ -1,0 +1,11 @@
+C:\Users\Hannah\Desktop\school\SWD102\finalproject_zip\Bling Blong\bin\Debug\netcoreapp2.2\finalproject.deps.json
+C:\Users\Hannah\Desktop\school\SWD102\finalproject_zip\Bling Blong\bin\Debug\netcoreapp2.2\finalproject.runtimeconfig.json
+C:\Users\Hannah\Desktop\school\SWD102\finalproject_zip\Bling Blong\bin\Debug\netcoreapp2.2\finalproject.runtimeconfig.dev.json
+C:\Users\Hannah\Desktop\school\SWD102\finalproject_zip\Bling Blong\bin\Debug\netcoreapp2.2\finalproject.dll
+C:\Users\Hannah\Desktop\school\SWD102\finalproject_zip\Bling Blong\bin\Debug\netcoreapp2.2\finalproject.pdb
+C:\Users\Hannah\Desktop\school\SWD102\finalproject_zip\Bling Blong\obj\Debug\netcoreapp2.2\finalproject.csprojAssemblyReference.cache
+C:\Users\Hannah\Desktop\school\SWD102\finalproject_zip\Bling Blong\obj\Debug\netcoreapp2.2\finalproject.csproj.CoreCompileInputs.cache
+C:\Users\Hannah\Desktop\school\SWD102\finalproject_zip\Bling Blong\obj\Debug\netcoreapp2.2\finalproject.AssemblyInfoInputs.cache
+C:\Users\Hannah\Desktop\school\SWD102\finalproject_zip\Bling Blong\obj\Debug\netcoreapp2.2\finalproject.AssemblyInfo.cs
+C:\Users\Hannah\Desktop\school\SWD102\finalproject_zip\Bling Blong\obj\Debug\netcoreapp2.2\finalproject.dll
+C:\Users\Hannah\Desktop\school\SWD102\finalproject_zip\Bling Blong\obj\Debug\netcoreapp2.2\finalproject.pdb
